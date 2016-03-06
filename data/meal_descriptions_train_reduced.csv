@@ -1,0 +1,501 @@
+id,name,description,meal_category,meal_parent_category
+561715,Pizza Capricciosa,"mit Schinken, Paprika, frischen Champignons, Zwiebeln und Oliven",Pizza Capricciosa,Pizza
+639338,Gnocchi Gorgonzola,mit Gorgonzola,Gnocchi Gorgonzola,Pasta
+108781,Pizza Vier Jahreszeiten vegetarisch,"mit Champignons, Zwiebeln, Paprika und Peperoni",Pizza Vier Jahreszeiten,Pizza
+429411,Pizza Vier Jahreszeiten,"mit Artischocken, Paprika, Spargel, Pilzen, Käse und Tomatensauce",Pizza Vier Jahreszeiten,Pizza
+170425,Pizza Frutti di Mare,"mit Paprika, Thunfisch, Meerefrüchte, Tomatensauce und Käse",Pizza Frutti di Mare,Pizza
+116965,Pizza Quattro Formaggi,"mit Gorgonzola, Mozzarella, Gouda und Parmesan",Pizza Quattro Formaggi,Pizza
+354747,Pizza Vegetaria,"mit Broccoli, Mais, Champignons, Zwiebeln und Artischocken",Pizza Vegetaria,Pizza
+718623,Pizza Quattro Stagioni,"mit Formfleischvorderschinken, Champignons, Spinat und Artischocken",Pizza Quattro Stagioni,Pizza
+30856,Montagsangebot: Pizza Sophia Loren,mit Salami und frischen Champignons,Pizza Sophia Loren,Pizza
+391393,Pizza Cipolla,mit Zwiebeln,Pizza Cipolla,Pizza
+310366,Pizza Alaska,"mit Lachs, Spinat und Zwiebeln",Pizza Alaska,Pizza
+575249,Pizza Spinaci,"mit Tomaten, Mozzarella und frischem Spinat",Pizza Spinaci,Pizza
+467437,Pizza Mozzarella,"mit frischen Tomaten, Peperoni, Oliven und Mozzarella",Pizza Mozzarella,Pizza
+81884,Pasta Roma,"mit Schinken, Champignons, Tomaten, Sahne und Ei",Pasta Roma,Pasta
+32133,Tagliatelle Del Chef,"mit Putenfilet, frischen Champignons und Knoblauch in Sahnesauce",Tagliatelle alle Chef,Pasta
+82031,Pizza Mozzarella,"mit Mozzarella, Tomaten und Peperoni",Pizza Mozzarella,Pizza
+13668,Pizza Spinat und Ei,,Pizza Spinaci,Pizza
+629352,Spaghetti al Forno,"mit Bolognese, Schinken, Sahne und Käse überbacken",Spaghetti al Forno,Pasta
+410323,Pizza California,"mit Serrano-Schinken, Rucola, Kirschtomaten, Parmesan und echtem Gouda",Pizza California,Pizza
+520874,Pizza Broccoli,,Pizza Broccoli,Pizza
+337741,Pizza Vegetarisch,"mit Broccoli, Spinat, Artischocken, frischen Pilzen, frischen Tomaten und Schafskäse",Pizza Vegetaria,Pizza
+540726,Pizza Capricciosa,"mit Salami, Vorderschinken, Peperoni, Champignons und Artischocken",Pizza Capricciosa,Pizza
+127633,Spaghetti al Forno,in Fleischsauce mit Käse überbacken,Spaghetti al Forno,Pasta
+745066,Maccheroni Napoli,mit leckerer Tomatensauce,Maccheroni Napoli,Pasta
+385260,Kawatini,4 Sorten Nudeln mit Bolognesesauce,Kawatini,Pasta
+649750,Pizza Mozzarella,mit Tomaten und Mozzarella,Pizza Mozzarella,Pizza
+695420,PIzza Calzone,"mit Salami, Paprika, Schinken, Champignons und extra Käse",Pizza Calzone,Pizza
+173765,"Pizza mit Tomaten, Käse und Schinken",,Pizza Schinken Tomate,Pizza
+555448,Pizza Broccoli,mit Broccoli,Pizza Broccoli,Pizza
+124083,Pizza Schinken,mit Schinken,Pizza Prosciutto,Pizza
+408945,Pasta Napoli,mit hausgemachter Tomatensauce,Spaghetti Napoli,Pasta
+154708,Pizza Gamberetti,mit Krabben und Knoblauch,Pizza Gamberetti,Pizza
+176187,Tagliatelle Broccoli,"mit Broccoli, Tomaten und Sahnesauce",Tagliatelle Broccoli,Pasta
+112208,Party Pizza Hawaii,mit Hinterschinken und Ananaswürfel,Pizza Hawaii,Pizza
+151062,Spaghetti Bolognese,mit Fleischsauce (nach Hausrezept vom Rind),Spaghetti Bolognese,Pasta
+33183,Pizza Spinaci,"mit Spinat, Formfleischvorderschinken und Knoblauch",Pizza Spinaci,Pizza
+392211,Pizza Tonno Zwiebel,mit Thunfisch und Zwiebeln,Pizza Tonno,Pizza
+522400,Pizza Casa,"mit Allem, außer Fisch",Pizza Casa,Pizza
+508187,Pizza Prosciutto,mit Schinken,Pizza Prosciutto,Pizza
+513161,Pizza Melanzane,"mit Sucuk (Rinderknoblauchwurst), Auberginen und Broccoli",Pizza Melanzane,Pizza
+76458,Pizza Gorgonzola,mit Gorgonzolakäse,Pizza Gorgonzola,Pizza
+730025,Pizza Napoli,"mit Oliven, Sardellen und Knoblauch",Pizza Napoli,Pizza
+483852,Tortellini alla Tomaten,mit Tomatensauce,Tortellini Pomodoro,Pasta
+700103,Pizza Funghi,"mit Tomatensauce,  italienischem Mozzarella und Champignons",Pizza Funghi,Pizza
+173739,Pizza Diavolo,"mit Vorderschinken, Salami, Pilzen und scharfen Peperoni",Pizza Diavolo,Pizza
+479010,Maccheroni Carbonara,"mit Schinken, Sahne und Ei",Maccheroni Carbonara,Pasta
+635738,Pizza Quattro Formaggi,"mit je ¼ Pizza Weißkäse, Mozzarella, Gouda und Gorgonzola",Pizza Quattro Formaggi,Pizza
+539000,Pizza Cipolla,mit Zwiebeln,Pizza Cipolla,Pizza
+473672,Maccheroni Italia,"mit Champignons, Zwiebeln, Spinat, Krabben und Tomatensauce",Maccheroni Italia,Pasta
+468017,Pizza Quattro Stagioni,"mit Tomatensauce, Käse, Champignons, Salami, Zwiebeln, Paprika und Spargel",Pizza Quattro Stagioni,Pizza
+328096,Rigatoni Gorgonzola,Maccheroni mit Gorgonzolasauce,Rigatoni Gorgonzola,Pasta
+535398,Pizza Quattro Stagioni,"mit Paprika, Thunfisch, Pilzen und Artischocken",Pizza Quattro Stagioni,Pizza
+154544,Pizza Pane mit Remoulade,Pizzabrot,Pizza Pane,Pizza
+4062,Spaghetti Bolognese,,Spaghetti Bolognese,Pasta
+65950,"Spaghetti Aglio, Olio e Peperonicini","mit Öl und Knoblauch, pikant",Spaghetti Aglio e Olio,Pasta
+86705,Spaghetti Bolognese,mit Tomaten und Rinderhack,Spaghetti Bolognese,Pasta
+24246,Spaghetti Aglio,mit Olio e Peperoncino,Spaghetti Aglio e Olio,Pasta
+727571,Pizza Margherita,mit feiner Tomatensoße und Edamer? ? ?,Pizza Margherita,Pizza
+602947,Pizza Milano,"mit Vorderschinken, Champignons, Peperoni, Artischocken und Zwiebeln",Pizza Milano,Pizza
+48341,Tagliatelle Bolognese,Bandnudeln mit Bolognesesauce,Tagliatelle Bolognese,Pasta
+710682,Pizza Mexikaner,"mit Bohnen, Mais, Zwiebeln, Jalapenos und Dönerfleisch",Pizza Mexikaner,Pizza
+140081,Partypizza mit Thunfisch und Paprika,,Pizza Tonno,Pizza
+1850,Pizza Gorgonzola,mit Gorgonzola und Spinat,Pizza Gorgonzola,Pizza
+531883,Pizza Margherita,doppelt Käse,Pizza Margherita,Pizza
+77521,Wunschpizza,"Grundpizza mit Tomatensauce und Käse, weitere Zutaten gegen Aufpreis",Wunschpizza,Pizza
+55312,Tagliatelle della Casa,"mit Schinken, Erbsen, Pilzen, Sahne und Käse überbacken",Tagliatelle Della Casa,Pasta
+640010,Pizza Capricciosa,"mit Tomaten, Käse, Schinken, Artischocken und Zwiebeln",Pizza Capricciosa,Pizza
+337302,Pizza Sucuk,,Pizza Sucuk,Pizza
+204246,Kawatini,mit verschiedenen Nudelsorten,Kawatini,Pasta
+375398,Pizza Capricciosa,"mit Champignons, Spinat und Speck",Pizza Capricciosa,Pizza
+164325,Pizza Mozzarella,"mit Formfleischschinken, Spinat, Mozzarella und Tomaten",Pizza Mozzarella,Pizza
+657109,Pasta Bolognese,mit Hackfleischsauce,Pasta Bolognese,Pasta
+90875,Pizza Hawaii,mit Schinken und Ananas,Pizza Hawaii,Pizza
+148152,Calzone,"mit Tomatensauce, Salami, Käse, Schinken, Champignons und Thunfisch",Pizza Calzone,Pizza
+590850,Pizza Frutti di Mare,mit Meeresfrüchten,Pizza Frutti di Mare,Pizza
+74607,Pizza Pollo e Broccoli,"Hähnchen, Knoblauch und Broccoli",Pizza Chicken,Pizza
+512525,Pizza Quattro Staggione,"mit Schinken, Salami, Champignons und Artischocken",Pizza Quattro Stagioni,Pizza
+141407,Pizzabrötchen gefüllt mit Schinken,,Pizzabrötchen,Pizza
+259278,Tortellini Napoli,mit Tomatensauce,Tortellini Napoli,Pasta
+414845,Pizza Quattro Formaggi,"mit Gouda, Mozzarella, Parmesan gehobelt und Gorgonzola",Pizza Quattro Formaggi,Pizza
+723700,Pizza Salami,,Pizza Salami,Pizza
+230820,Pizza Champignons,,Pizza Funghi,Pizza
+93426,Pizza Quattro Stagioni,"mit Salami, Schinken, frischen Champignons und frischer Paprika",Pizza Quattro Stagioni,Pizza
+380777,Pasta,,Pasta,Pasta
+230744,Pizza Artischocken,"mit Artischocken, Salami, Champignons und Hackfleisch",Pizza Artischocken,Pizza
+599850,Pizza Kentucky,"mit herzhaften Baconwürfeln, Zwiebeln, Barbecuesauce, darüber ein Ei. Mit Gouda überbacken",Pizza Kentucky,Pizza
+229612,Pizza Spaghetti,mit Sauce Hollandaise und Spiegelei,Pizza Spaghetti,Pizza
+710183,Pizza Scampi,"mit Großgarnelen, Shrimps und Knoblauch",Pizza Scampi,Pizza
+233151,Pizza Sauce Hollandaise,mit Schinken und Brokkoli,Pizza Hollandaise,Pizza
+71844,Pizza Bolognese,mit Rinderhackfleisch und Käse,Pizza Bolognese,Pizza
+327791,Pizza Gorgonzola,mit Schinken und Gorgonzola,Pizza Gorgonzola,Pizza
+28764,Penne Bolognese,mit Hackfleisch und Parmesan,Penne Bolognese,Pasta
+411517,Penne Prosciutto e funghi,"mit Schinken, Sahnesauce und Käse überbacken",Penne Funghi,Pasta
+316690,8 Pizzabrötchen gefüllt mit Schinken,und Gouda-Käse,Pizzabrötchen mit Schinken,Pizza
+504184,Pizza Vegetaria,"mit Champignons, Paprika, Broccoli und frischen Tomaten",Pizza Vegetaria,Pizza
+589635,Pizza Milano,mit Salami und Thunfisch,Pizza Milano,Pizza
+490025,Tortellini,gefüllte Teigtaschen mit Vorderschinken in Sahnesauce,Tortellini,Pasta
+62282,Pizza Broccoli,"mit Tomaten, Käse, Broccoli, Knoblauch und Olivenöl",Pizza Broccoli,Pizza
+19231,Pizza Lachs,"mit Lachs, Champignons und Knoblauch",Pizza Salmone,Pizza
+702803,Pizza Spezial,"mit Schinken, Champignons, Salami, Paprika, Artischocken und Oliven",Pizza Spezial,Pizza
+385439,Pizza Quattro Formaggi,mit vier Käsesorten,Pizza Quattro Formaggi,Pizza
+140016,"Party Pizza, 40x60 cm","mit Tomaten, Oregano und Käse",Partypizza,Pizza
+83054,Pizza Bomba Atomica,"mit Thunfisch, Zwiebeln, Spinat, Vorderschinken, Champignons und Knoblauch, scharf",Pizza Bomba,Pizza
+341649,Pizza Spaghetti,"mit Tomatensauce, Käse, Schinken, Pilze und Spaghetti",Pizza Spaghetti,Pizza
+21936,Pizza Parma,"mit Parma-Schinken, Rucola und Parmesankäse",Pizza Parma,Pizza
+672884,Pizza Vegetaria,"mit Zwiebeln, Mais, Paprika, Pilzen und Broccoli",Pizza Vegetaria,Pizza
+720943,Tagliatelle Carbonara,"mit Sahne, Ei und Schinken",Tagliatelle Carbonara,Pasta
+222260,Pizza Rucola,"mit Schinken, Mozzarella, Parmesankäse und Rucola",Pizza Rucola,Pizza
+292737,Tagliatelle Napoli,Bandnudeln mit Tomatensauce und Knoblauch,Tagliatelle Napoli,Pasta
+340283,Pasta Salmone,"mit Lachs, Pilzen und Sahnesauce",Pasta Salmone,Pasta
+556901,Pizza Siciliana,"mit Sardellen, Paprika und Knoblauch",Pizza Siciliana,Pizza
+67755,Tris di Pasta,drei verschiedene Nudelsorten in Tomatensahnesauce,Tris di Pasta,Pasta
+389432,Pizza Cipolla,mit Zwiebeln,Pizza Cipolla,Pizza
+581785,Pizza Spezial,"mit Tomaten, Käse, Salami, Paprikawurst, Champignons und Schinken",Pizza Spezial,Pizza
+448769,Spaghetti Bolognese,mit Rinderhackfleischsauce,Spaghetti Bolognese,Pasta
+380501,"Pizza mit Artischocken, Spinat und Brokkoli",,Pizza mit Artischocken,Pizza
+650137,Pizza Primavera,"mit Putenbrust, Broccoli, Zwiebeln und Knoblauch",Pizza Primavera,Pizza
+389864,Pizza Salami,mit Salami,Pizza Salami,Pizza
+413466,Pasta Bolognese,mit Hackfleischsauce,Pasta Bolognese,Pasta
+11541,Pizza Schinken & Champignons,mit Schinken und frischen Champignons,Pizza Prosciutto,Pizza
+648643,Pizza Curry,"mit Hähnchenfleisch, Zwiebeln und Currysauce",Pizza Curry,Pizza
+252964,Pizza Milano,"mit Spinat, Schafskäse, Artischocken und Knoblauch",Pizza Milano,Pizza
+299490,Spaghetti Carbonara,"mit Sahne, Schinken und Ei",Spaghetti Carbonara,Pasta
+566202,Pizza Capricciosa,"mit Tomaten, Käse, Schinken und Champignons",Pizza Capricciosa,Pizza
+3904,Pizza Diavolo,mit Paprika und Tabasco,Pizza Diavolo,Pizza
+287001,Pasta Gamba,"mit Spaghetti, Olivenöl, Garnelen, grünem Spargel, Kirschtomaten, Knoblauch, Rucola & Parmesan",Pasta Gamberetti,Pasta
+406848,Pizza Curry,"mit exotischer Curry Sauce, zarter Hähnchenbrust, süßer Ananas & Gouda",Pizza Curry,Pizza
+381634,Spaghetti Frutti di Mare,"mit Meeresfrüchten, Knoblauch, Zwiebeln und Tomatensauce",Spaghetti Frutti di Mare,Pasta
+657686,Pizza Broccoli,mit Broccoli und Fetakäse,Pizza Broccoli,Pizza
+581071,Pizza Salami,,Pizza Salami,Pizza
+562741,Pizza Prosciutto,mit Schinken,Pizza Prosciutto,Pizza
+356595,Pizza Salami,mit Salami,Pizza Salami,Pizza
+239369,Spaghetti Mare e Monti,"mit Krabben, Pfifferlingen, Zwiebeln und Tomnatensahnesauce",Spaghetti Mare e Monti,Pasta
+734636,Pizza Margherita,"mit Tomatensauce, Gouda und Oregano",Pizza Margherita,Pizza
+221623,Pizzabrötchen Thunfisch (6 Stück),mit Käse und Thunfisch,Pizzabrötchen mit Thunfisch,Pizza
+628318,Pizza Rustica,"mit Salami, Röstzwiebeln, pikante Sauce, Champignons und Bacon",Pizza Rustica,Pizza
+421326,Tagliatelle  Carbonara,"mit Sahne, Vorderschinken und Ei",Spaghetti Carbonara,Pasta
+344270,Pizza Salami,mit Salami,Pizza Salami,Pizza
+262236,Pizza Quattro Stagioni,"mit Tomaten, Käse, Salami, Schinken, Pilzen, Artischocken und Oregano",Pizza Quattro Stagioni,Pizza
+422843,Pizza Sardellen,"mit Sardellen, Oliven und Thunfisch",Pizza Sardellen,Pizza
+719929,Pizza Prosciutto,mit saftigem Hinterschinken,Pizza Prosciutto,Pizza
+400869,Pasta Napoli,mit Tomatensauce,Spaghetti Napoli,Pasta
+746486,Spaghetti Broccoli,mit Hinterschinken und Sahnesauce,Spaghetti Broccoli,Pasta
+609608,Pizza Spaghetti,mit Spaghetti und Fleischsauce,Pizza Spaghetti,Pizza
+246748,Pizza Vier Jahreszeiten,"mit Salami, Schinken, Champignons, Paprika und Ei",Pizza Vier Jahreszeiten,Pizza
+130504,Pizza Broccoli,"mit frischen Tomaten, Broccoli, Paprika, Champignons und Zwiebeln",Pizza Broccoli,Pizza
+615600,Pizza Spezial,,Pizza Spezial,Pizza
+732430,Pizza Alaska,mit Salami und Champignons,Pizza Alaska,Pizza
+33774,Pizza Bologna,"Bolognese mit Zwiebeln, Paprika und Käse überbacken",Pizza Bologna,Pizza
+687570,"Party Pizza, 60x60 cm mit 3 Zutaten",für 10 Personen,Partypizza,Pizza
+220793,Pizza Quattro Stagioni,"Champignons, Schinken, Salami, Peperoni und Artischocken",Pizza Quattro Stagioni,Pizza
+110695,"Salami, Champignon Pizza",,Pizza Salami Champignons,Pizza
+284481,Pizza Pantelone Gyros,gefüllt mit Gyros und Zwiebeln,Pizza Gyros,Pizza
+188621,Pizza Vegetarisch,"mit frischen Tomaten, Broccoli, Paprika und Erbsen",Pizza Vegetaria,Pizza
+83739,Pizza Tonno,"mit Tomaten, Käse, Thunfisch",Pizza Tonno,Pizza
+230302,Pasta Frutti di Mare,mit Meeresfrüchten,Pasta Frutti di Mare,Pasta
+442953,Spaghetti al Pesto,mit Basilikum-Pesto-Sauce,Spaghetti al Pesto,Pasta
+743403,Pizza Don Camillo,"mit Peperoni, Schinken, Spinat, Oliven und Knoblauch",Pizza Don Camillo,Pizza
+448369,"Pizza Thunfisch, Peperoni","mit Thunfisch, Zwiebeln, Champignons, Peperoni und Oliven, Tomaten-Sauce und Käse",Pizza Tonno,Pizza
+286547,Rigatoni mit Fleisch-Sahnesauce,,Rigatoni alla Panna,Pasta
+239869,Pizza Margarita,mit Käse,Pizza Margherita,Pizza
+195620,Spaghetti Chef,"mit Tomaten - Sahnesauce, frischen Pilzen, Putenbrust und Peperoni (mild oder scharf)",Spaghetti alle Chef,Pasta
+216556,Pizza Gyros,"mit Gyros, Zwiebeln, Zaziki und frischen Tomaten",Pizza Gyros,Pizza
+523404,Pizza Hawaii,mit Hinterschinken und Ananas,Pizza Hawaii,Pizza
+175521,Pizza Shrimps,mit Zwiebeln und Knoblauch,Pizza Shrimps,Pizza
+696738,Pizza Gorgonzola,,Pizza Gorgonzola,Pizza
+177493,Gnocchi alla Panna,mit Schinken in Sahnesauce,Gnocchi alla Panna,Pasta
+234151,Spaghetti in Tomatensauce,,Spaghetti al Pomodoro,Pasta
+583367,Pizza Curry,"mit Hähnchenfilet, Ananas, Currysauce, Käse und Broccoli",Pizza Curry,Pizza
+583884,Pizza Prosciutto,mit Vorderschinkenformfleisch,Pizza Prosciutto,Pizza
+695538,Pizza mit Schinken,,Pizza Prosciutto,Pizza
+549767,Pizzabrot,mit Tomatensauce und Knoblauch,Pizzabrot,Pizza
+49950,Pizza Döner,"mit Creme Fraiche, frischen Tomatenscheiben, frischem Avanti-Käsemix, herzhaftem Dönerfleisch und Zwiebeln",Pizza Döner,Pizza
+716956,Mini-Pizza Margherita,"mit Tomatensauce, frisch geriebenem Käse - einer Mischung aus frischem Gouda und Edamer",Pizza Margherita,Pizza
+127694,Calzone mit Salami,"mit Schinken, Champignons und Ei",Pizza Calzone,Pizza
+137073,Pizza Tonno,mit Thunfisch und Zwiebeln,Pizza Tonno,Pizza
+423980,Spaghetti Bolognese,,Spaghetti Bolognese,Pasta
+42103,Pizza Romanella,"mit Thunfisch, Schinken und Zwiebeln (auf Wunsch Knoblauch)",Pizza Roma,Pizza
+156000,Tagliatelle Alla Chef,"mit Hähnchenfleisch, Broccoli und Tomaten-Sahnesauce",Tagliatelle alle Chef,Pasta
+669875,Tortellini alla Spinaci,"mit Spinat, Schinken, Sahnesauce und 5 Brötchen",Tortellini Spinaci,Pasta
+670622,Pizza Parma,"mit Parmaschinken, Rucola und Parmesanhaube",Pizza Prosciutto,Pizza
+614199,Pizza Hawaii,mit Schinken und Ananas,Pizza Hawaii,Pizza
+454691,Cheesy Pizza Salami,mit herzhafter Salami,Pizza Salami,Pizza
+630471,Pizza Sucuk,"mit Tomatensauce, Knoblauchwurst und Käse",Pizza Sucuk,Pizza
+173780,"Pizza mit Tomaten, Käse, Schinken und Pilzen",,Pizza Schinken Champignons,Pizza
+9152,Gnocchi Gorgonzola,"mit Spinat, Gorgonzola, Sahnesauce und Käse überbacken",Gnocchi Gorgonzola,Pasta
+666412,Pasta Spinaci,"mit Blattspinat, Gorgonzola und Tomaten-Sahnesauce",Pasta Spinaci,Pasta
+506838,Pizza Shrimps,mit Shrimps,Pizza Shrimps,Pizza
+683373,Pizza Enzo,"mit Schinken, Ananas und Thunfisch",Pizza Enzo,Pizza
+220180,Minipizza Funghi,"mit Tomatensauce, Käse und Champignons",Pizza Funghi,Pizza
+680142,Calzone Roma,"mit Salami, Schinken, Champignons, Thunfisch, Paprika und roten Zwiebeln",Pizza Calzone,Pizza
+722153,Spaghetti Bolognese,mit Hackfleischsauce,Spaghetti Bolognese,Pasta
+123652,Pizza Hackfleisch,mit Hackfleisch,Pizza Hackfleisch,Pizza
+118635,Pizza Primavera,"mit Tomatensauce, Käse, Champignons und Ei",Pizza Primavera,Pizza
+622535,Pizza Royal,"mit Spinat, Zwiebel, Knoblauch, Schafskäse und scharfer Peperoni",Pizza Royal,Pizza
+206306,Pasta Chef,"mit Bolognesesauce, Sahne, Paprika, Pilzen und Spargel (scharf)",Pasta alla Chef,Pasta
+534876,Pizza Mista,"mit Salami, Schinken, und Pilzen",Pizza Mista,Pizza
+715427,Pizza o Sole Mio,"mit Zwiebeln, Ei, Spinat, Salami und Knoblauch",Pizza O Sole Mio,Pizza
+235575,Pizza Sucuk,mit türkischer Knoblauchwurst,Pizza Sucuk,Pizza
+369783,Pizza Prosciutto,mit Schinken,Pizza Prosciutto,Pizza
+452534,Pizza Rucola,"mit würziger Pizzasauce, Rucola, Serrano Schinken, Kirschtomaten, Parmesan & Gouda",Pizza Rucola,Pizza
+77950,Spaghetti Frutti di Mare,mit Meeresfrüchten,Spaghetti Frutti di Mare,Pasta
+532472,Spaghetti Frutti di Mare,,Spaghetti Frutti di Mare,Pasta
+475163,Pizzabrötchen mit Schinken,und Ananas,Pizzabrötchen mit Schinken,Pizza
+368279,Pizza Artischocken,"mit Tomatensauce, Käse, Schinken, Artischocken, Zwiebeln und Oregano",Pizza Artischocken,Pizza
+538164,Pizza Vesuvio,mit Zwiebel und Paprikaschoten,Pizza Vesuvio,Pizza
+396424,Tris di Pasta,Nudel Blech mit 3 verschiedenen Nudelsorten,Tris di Pasta,Pasta
+651157,Pizza Caprese,"mit Tomaten, Mozzarellascheiben und Basilikum",Pizza Caprese,Pizza
+499290,Pizza Diavolo,"mit Schinken, Salami, Pilze, Paprika und Peperoni",Pizza Diavolo,Pizza
+119459,Pizza Calzone,"gefüllte Pizza mit Champignons, , Schinken, Salami und Thunfisch",Pizza Calzone,Pizza
+505800,Pizzabrot,,Pizzabrot,Pizza
+479478,Spaghetti Aglio e Olio,"mit Knoblauch, Olivenöl, Peperoni und Paprika",Spaghetti Aglio e Olio,Pasta
+155277,Gefülltes Pizzabrötchen mit Thunfisch,"und Käse, 8 Stück",Pizzabrötchen mit Thunfisch,Pizza
+666201,Pizza Broccoli,mit frischem (gegrilltem) Broccoli,Pizza Broccoli,Pizza
+107153,Spaghetti mit Scampi al olio,Peperoncino mit grünen Spargelspitzen und Kirschtomaten,Spaghetti Scampi,Pasta
+623762,Pizza Hawaii,mit Ananas und Schinken,Pizza Hawaii,Pizza
+511468,Pizza Sucuk,mit türkischer Knoblauchwurst,Pizza Sucuk,Pizza
+450844,Tortellini alla Panna,mit Schinken und Sahnesauce,Tortellini alla Panna,Pasta
+363196,Pasta Bolognese,mit Gehacktem und Tomatensauce,Spaghetti Bolognese,Pasta
+675424,Pizza Vier Jahreszeiten,"mit Hinterschinken, frischen Champignons, Oliven und Artischocken",Pizza Vier Jahreszeiten,Pizza
+315549,Pizza Roma,"mit Salami, frischer Paprika, Mais, Oliven, Peperoni und Thunfisch",Pizza Roma,Pizza
+645637,Pizza Spaghetti,mit Hackfleischsauce,Pizza Spaghetti,Pizza
+294533,Spaghetti Diavolo,"mit Fleisch- und Cherrytomaten, schwarzen Oliven und Sardellen",Spaghetti Diavolo,Pasta
+512466,Pasta mit Scampi,Knoblauch und Jungzwiebeln,Pasta Scampi,Pasta
+170759,Pizza Gorgonzola,mit Edelpilzkäse,Pizza Gorgonzola,Pizza
+733735,Pizza Mozzarella,"mit Tomaten, Mozzarella und Basilikum",Pizza Mozzarella,Pizza
+471669,Familienpizza Margherita,,Pizza Margherita,Pizza
+687191,Pizza Miami,"Sahnesauce, Käse, Rindersteakspitzen, grüner Spargel und Champignons",Pizza Miami,Pizza
+304662,Pizza Gamberetti,mit Krabben und Ei,Pizza Gamberetti,Pizza
+548275,Spaghetti Carbonara,mit Schinken und Ei in Sahnesauce,Spaghetti Carbonara,Pasta
+667206,Pizza Diavolo,"mit Schinken, Salami, Zwiebeln und pikanten Peperonis",Pizza Diavolo,Pizza
+716444,Pizza Spaghetti,mit Spaghetti und Fleischsauce,Pizza Spaghetti,Pizza
+705133,Pasta Vegetarisch,"mit Broccoli, Champignons, Paprika und Sahnesauce",Pasta Vegetaria,Pasta
+217791,Tris di Pasta,drei verschiedene Nudelsorten,Tris di Pasta,Pasta
+391524,Pizza Capricciosa,"mit Truthahnschinken, Champignons, Salami, Artischocken, Oliven und Peperoni",Pizza Capricciosa,Pizza
+626254,Pizza Gorgonzola,"mit Tomaten, Käse, Gorgonzola und Schinken",Pizza Gorgonzola,Pizza
+522959,Pizza Salame e Funghi,"mit Tomaten, Käse, Salami und frischen Champignons",Pizza Salami,Pizza
+134649,Makkaroni Quattro Formaggi,mit vier Käsesorten,Maccheroni Quattro Formaggi,Pasta
+419806,Pizza Texas,"mit BBQ-Sauce, Texas-Beef, Bacon, roten Zwiebeln und Mozzarella",Pizza Texas,Pizza
+362346,Gnocchi mit Broccoli,in Tomaten-Sahnesauce,Gnocchi Broccoli,Pasta
+237374,Pizza Salami & Schinken,mit Salami und Schinken,Pizza Salami,Pizza
+248106,Pasta Räucherlachs,in Sahnesauce,Pasta Salmone,Pasta
+629583,Pizza New York,"mit Rindersalami, Champignons, Peperoniwurst und Knoblauch",Pizza New York,Pizza
+376926,Pizza Capricciosa,"mit Pilzen, Spargel, Paprika, Ei und Oliven",Pizza Capricciosa,Pizza
+713763,Pizza Rimini,"mit Paprika, Champignons und Salami",Pizza Rimini,Pizza
+577200,Pizza Capricciosa,"mit Schinken, Champignons, Paprika, Salami und Peperoni",Pizza Capricciosa,Pizza
+630138,Pizza Italia,"mit Thunfisch, Salami, Oliven und Zwiebel",Pizza Italia,Pizza
+160399,Pizza California,mit Putenbrust und Ananas,Pizza California,Pizza
+28701,Pizza Calzone,Pizzatasche,Pizza Calzone,Pizza
+730475,Pizza Al Capone,"mit Rucola, frischen Tomaten, Schinken und Mozzarella",Pizza Al Capone,Pizza
+396948,Pizza Apollo,mit Schinken und Salami,Pizza Apollo,Pizza
+320675,Rigatoni con Scampi,"mit Scampi, Knoblauch und Tomatensauce",Rigatoni Scampi,Pasta
+371358,Pizza Diavola,mit scharfer Salami,Pizza Diavola,Pizza
+48919,Pizza Mozzarella,mit frischen Tomaten und Mozzarella,Pizza Mozzarella,Pizza
+471186,Pizza Rucola,"mit frischen Tomaten, Rucola, Parmesankäse und Parmaschinken",Pizza Rucola,Pizza
+94533,Pizza Salami (ca. 17cm),,Pizza Salami,Pizza
+214424,Pizza Milano,"mit Tomatensauce, Käse, Salami, Champignons und Oregano",Pizza Milano,Pizza
+29096,Gnocchi mit Gorgonzola,frischem Basilikum und Sahnesauce,Gnocchi Gorgonzola,Pasta
+587044,Pizza Roma,mit frischer Paprika und frischen Champignons,Pizza Roma,Pizza
+547305,Pizza Amsterdam,"mit Gorgonzola, Spargel, Champignons und Paprika",Pizza Amsterdam,Pizza
+144419,Pizza Bombay,"mit Hähnchenbrustfilet, Ananas und Currysauce",Pizza Bombay,Pizza
+467766,Pizza Texas,"mit Mais, Champignons, Zwiebeln und Paprika",Pizza Texas,Pizza
+743223,Pizza Salami,,Pizza Salami,Pizza
+724613,Rigatoni al Forno,mit Hackfleisch und Sahne,Rigatoni al Forno,Pasta
+309764,Pizza Parma,mit italienischem Landschinken und Mozzarella,Pizza Parma,Pizza
+297380,Cannelloni al Forno,gefüllte Teigrollen überbacken mit Fleischsauce,Cannelloni al Forno,Pasta
+635831,Pizza Margherita,"mit Tomatensauce, Käse und Oregano",Pizza Margherita,Pizza
+552865,Pizza Mozzarella,mit Tomaten und Mozzarella,Pizza Mozzarella,Pizza
+310582,Pizza Hawaii,mit Schinken und Ananas,Pizza Hawaii,Pizza
+195194,Pizza Calabria,mit Zwiebeln und Thunfisch,Pizza Calabria,Pizza
+506202,Pizza Mexicana,"mit Peperoni, Mais, Hackfleisch und Paprika",Pizza Mexicana,Pizza
+690605,Pizza Mexican,"mit Hackfleisch, Mais, Kidney Bohnen und Chili",Pizza Mexican,Pizza
+547688,Spaghetti Carbonara,"mit Bauchspeck, Sahne und Eigelb",Spaghetti Carbonara,Pasta
+593393,Pizza Frutti di Mare,"mit Tomaten, Käse und Meeresfrüchten",Pizza Frutti di Mare,Pizza
+708137,Pizza Artischocken,mit Artischocken,Pizza Artischocken,Pizza
+441328,Pizza Quattro Stagioni,"mit Tomatensauce, frisch geriebenem Käse, Artischocken, Hinterschinken, frischen Champignons, Peperoni und Oliven",Pizza Quattro Stagioni,Pizza
+300587,Tortellini Carbonara,"mit Speck, Ei und Sahnesauce",Tortellini Carbonara,Pasta
+428084,Combinazione Al Forno,"Spaghetti Bolognese, Lasagne, Tortelloni Alla Panna mit Käse überbacken",Combinazione,Pasta
+62845,Pizza Valentino,"mit Schinken, Champignons, Artischocken und Ei",Pizza Valentino,Pizza
+37221,Pasta Frutti di Mare,"mit Meeresfrüchten, Tomatensauce und Knoblauch (nach Wahl mit Knoblauch)",Spaghetti Frutti di Mare,Pasta
+559764,Pizza Roma,"mit Broccoli, frischen Tomaten und Mozzarella",Pizza Roma,Pizza
+270808,Pizza Sucuk,mit türkischer Wurst,Pizza Sucuk,Pizza
+486672,Pizza Diavola,"mit Salami, Schinken und Champignons",Pizza Diavolo,Pizza
+574565,Pizza Rustica,"mit Salami, Champignons und Formfleisch-Vorderschinken",Pizza Rustica,Pizza
+495852,Pizza Athen,"mit Spinat, Gyros, Fetakäse, Peperoni und Knoblauch",Pizza Athen,Pizza
+678338,Pizza Hawaii,"mit Kochschinken, Ananas und herzhaftem Gouda",Pizza Hawaii,Pizza
+338774,Pizza Margherita,mit Tomatensauce und Käse,Pizza Margherita,Pizza
+290389,Pizza Partigiana,"mit Spinat, Artischocken und Knoblauch",Pizza mit Artischocken,Pizza
+213211,Pizza Mexican 2,"mit Rindfleisch, frischen Champignons, Paprika und Zwiebeln",Pizza Mexican,Pizza
+509634,Pizza Aloa,mit Thunfisch und Ananas,Pizza Aloa,Pizza
+260661,Pizza Mozzarella,"mit Mozzarella, Tomaten und Basilikum",Pizza Mozzarella,Pizza
+195921,Pizza mit Salami und Champignon,,Pizza Salami,Pizza
+148462,Pizza Pollo Funghi,"mit Hähnchenbrustfilet, Paprika, Champignons, Knoblauch und Peperoni",Pizza Chicken,Pizza
+360070,Pizza Contadina,"mit Paprika, scharfen Peperoni und Knoblauch",Pizza Contadina,Pizza
+265552,Pasta Frutti di Mare,"mit Meeresfrüchten, Knoblauch und Tomatensauce",Pasta Frutti di Mare,Pasta
+174007,Pizza Spezial,"mit Pilzen, Schinken, Salami, Paprika, Oliven und Artischocken",Pizza Spezial,Pizza
+649576,Pizza Spinaci,mit Spinat und Gorgonzola,Pizza Spinaci,Pizza
+437609,Pasta al Pesto,mit Sahne und Basilikumsauce,Pasta al Pesto,Pasta
+651986,Pizza O Sole Mio,"mit Salami, Schinken, Pilzen und Ei",Pizza O Sole Mio,Pizza
+223075,Pizza Diavolo,"mit Tomaten, Käse, Salami, Paprika und milden Peperoni",Pizza Diavolo,Pizza
+286679,Penne mit Bolo/Hack,,Penne Bolognese,Pasta
+2870,Rigatoni Quattro Formaggi,Nudelröllchen mit vier versch. Käsesorten,Rigatoni Quattro Formaggi,Pasta
+686139,Tortellini Bolognese,mit Fleischsauce,Tortellini Bolognese,Pasta
+206219,"Pizza mit Thunfisch, Gorgonzola und Pilzen",,Pizza Tonno,Pizza
+221753,Rigatoni Laguna in Tomatensauce,"mit Zwiebeln, Lachs und Knoblauch",Rigatoni Pomodoro,Pasta
+650576,Pizza Hawaii,"mit Schinken, Ananas und Käse",Pizza Hawaii,Pizza
+691796,Pizza Roma,mit Hinterschinken und frischen Champignons,Pizza Roma,Pizza
+236920,Pasta Bolognese,mit Rindergehacktem,Pasta Bolognese,Pasta
+79098,Pizza Hawaii,mit Ananas und Schinken,Pizza Hawaii,Pizza
+475159,Pizzabrötchen mit Schinken,,Pizzabrötchen mit Schinken,Pizza
+260812,Pizza,jede kleine Pizza mit 3 Auflagen und eine Dose Cola,Pizza,Pizza
+313247,Pizza Regina,"mit frischer Paprika, Broccoli und Mais, scharf",Pizza Regina,Pizza
+276977,Pizza Diavola,"mit Peperonisalami, Schinken, Schafskäse, Knoblauch und Peperoncini",Pizza Diavola,Pizza
+115526,Pizza Spinat,"mit Spinat, Knoblauch, Mozzarella und Karpen",Pizza Spinaci,Pizza
+707227,Pizza Bianca,"mit Cream Fresh, Speck, roten Zwiebeln und Kirschtomaten",Pizza Bianca,Pizza
+134875,Spaghetti Carbonara,"mit Schinken, Ei, Käse und Sahnesauce",Spaghetti Carbonara,Pasta
+158261,Pizza Cipolla,mit Zwiebeln,Pizza Cipolla,Pizza
+199520,Pizza Hackfleisch,"mit Tomaten, Käse und Hackfleisch",Pizza Hackfleisch,Pizza
+232879,Pizza Vesuvio,"mit Peperoniwurst, Sardellen, Knoblauch, Zwiebeln, scharfen Peperoni und Ei",Pizza Vesuvio,Pizza
+663192,Pizza Vulcano,"Tomatensauce mit Basilikum, Salami, scharfen Peperoni und Edamer",Pizza Vulcano,Pizza
+447093,Spaghetti Napoli,mit Tomaten und Basilikum,Spaghetti Napoli,Pasta
+655342,Spaghetti Pollo,"mit Hähnchenfiletstreifen, frischen Champignons und Sahnesauce",Spaghetti Pollo,Pasta
+498460,Pizza Pirata,mit Hackfleischsauce und Spaghetti,Pizza Pirata,Pizza
+174227,Pizza Calzone,"mit Salami, Vorderschinken, Pilzen und Oliven",Pizza Calzone,Pizza
+238531,Pizza Salami,mit Salami,Pizza Salami,Pizza
+298011,Pizza Vegetaria,"mit Spinat, Broccoli, Mais, Paprika und Artischocken",Pizza Vegetaria,Pizza
+423952,Pasta con Pollo,"mit Hähnchenfleisch, Broccoli, Paprika in Curry-Sahnesauce und Käse überbacken",Pasta Pollo,Pasta
+123324,Pizza mit Thunfisch und Zwiebeln,,Pizza Tonno,Pizza
+395875,Pizza Quattro Stagioni,"mit Schinken, Thunfisch, Champignons und Paprika",Pizza Quattro Stagioni,Pizza
+207510,Gnocchi Bella Italia,"mit Pfifferlingen, Broccoli, Spinat und Knoblauch in Tomaten-Sahnesauce",Gnocchi Italia,Pasta
+46668,"Spaghetti Aglio, scharf","in Olivenöl, mit Knoblauch und Peperoni",Spaghetti Aglio e Olio,Pasta
+661285,Rigatoni Bolognese,,Rigatoni Bolognese,Pasta
+326161,Pizza Contadina,"mit Spinat, Weichkäse und Zwiebeln",Pizza Contadina,Pizza
+245744,Spaghetti Napoli,mit Tomatensauce und Sahne,Spaghetti Napoli,Pasta
+287097,Pizza Spinaci,"mit Tomatensauce, Käse, Oregano, Spinat und Knoblauch",Pizza Spinaci,Pizza
+200888,Pizza 2 Salami,"mit Tomatensauce, Käse, Salami, Peperoniwurst und Salami",Pizza Salami,Pizza
+97914,Spaghetti al Forno,mit Fleischsauce und Käse überbacken,Spaghetti al Forno,Pasta
+582103,Pizza San Remo,mit Schinken und Champignons,Pizza San Remo,Pizza
+503698,Pizza Milano,"mit Pilzen, Salami, Oliven, Schinken und Sardellen",Pizza Milano,Pizza
+262958,Gefüllte Pizzabrötchen mit Schinken,und Käse (8 Stück),Pizzabrötchen,Pizza
+636935,Pizza Prosciutto,mit Vorderschinken,Pizza Prosciutto,Pizza
+647969,Pizza Napoli,mit Sardellen und Oliven,Pizza Napoli,Pizza
+228986,Pizza Spezial,"mit Peperoniwurst, Salami, Schinken, Zwiebeln und Oliven",Pizza Spezial,Pizza
+433992,Pizza Regina,mit Champignons und Schinken,Pizza Regina,Pizza
+662559,Pizza Quattro,4 Jahreszeiten mit Eiern (roh),Pizza Quattro,Pizza
+457249,Pizza Quattro Stagioni,"mit Schinken, Salami, Artischocken und Champignons",Pizza Quattro Stagioni,Pizza
+296377,Pizza Salame & Peperoni,"mit Mozzarella, Salami und pikanten Peperoni",Pizza Salami,Pizza
+311386,Spaghetti al Tonno,"mit Tomatensauce, Thunfisch und Zwiebeln",Spaghetti Tonno,Pasta
+687823,Pizza Quattro Formaggi,"mit Tomaten, Käse, Parmesan, Gorgonzola, Mozzarella, Vorderschinken und Peperoni",Pizza Quattro Formaggi,Pizza
+731025,Pasta Gorgonzola,mit Gorgonzola und Sahne,Spaghetti Gorgonzola,Pasta
+39547,Gnocchi Gorgonzola,mit Gorgonzolasauce und Parmesan,Gnocchi Gorgonzola,Pasta
+150766,Pizzabrötchen mit Salami,und Käse,Pizzabrötchen,Pizza
+588362,Pizza Frutti di Mare,mit Meeresfrüchten und Knoblauch,Pizza Frutti di Mare,Pizza
+174428,Pizza Hot Dog,"mit Würstchen, Röstzwiebeln, Snack-Gurken, Snack-Sauce und Ketchup",Pizza Hot Dog,Pizza
+97541,Pizza Toscana,"mit Salami, Schinken, Champignons, Zwiebeln und Peperoni",Pizza Toscana,Pizza
+562664,Pizza Spinaci,mit Spinat,Pizza Spinaci,Pizza
+331580,Pizza Schafskäse,mit Spinat und Zwiebeln,Pizza Schafskäse,Pizza
+41165,Pizza Margherita,,Pizza Margherita,Pizza
+8013,"Pizza mit Hackfleisch, Paprika, Mais, Bohnen und Peperoni",,Pizza Hackfleisch,Pizza
+418394,Calzone Salami,mit Salami,Pizza Calzone,Pizza
+238291,Pizza mit Salami,,Pizza Salami,Pizza
+446117,Pizza Mexican Pollo,"mit Hühnerbrust, Broccoli, Mais und Chilisauce",Pizza Mexican,Pizza
+322857,Spaghetti Diavolo,"mit Schinken, Champignons, Peperonis, Zwiebeln, Tomatensauce und Knoblauch",Spaghetti Diavolo,Pasta
+407724,Spaghetti ai Frutti di Mare,mit Meeresfrüchten und Knoblauch in Weißwein-Tomatensauce,Spaghetti Frutti di Mare,Pasta
+596903,Pizza Europa,"mit Salami, Schinken, Peperoniwurst und Sardellen",Pizza Europa,Pizza
+704423,Tagliatelle Funghi,mit frischen Champignons und Sahnesauce,Tagliatelle Funghi,Pasta
+296597,Pizza Vegetaria,"mit Pizzasauce, frischen Champignons, Zucchini, fruchtigen Kirschtomaten, Broccoli und Gouda",Pizza Vegetaria,Pizza
+257545,Pizza BBQ Western,"mit BBQ-Sauce, Zwiebeln, Rindfleischstreifen und Bacon",Pizza Western Barbecue,Pizza
+506294,Pasta Frutti di Mare,mit Meeresfrüchten,Pasta Frutti di Mare,Pasta
+139778,Pasta Aglio e Olio,mit Olivenöl und Knoblauch,Spaghetti Aglio Olio,Pasta
+309312,Pizza Vegetaria,mit Auberginen und Zucchini,Pizza Vegetaria,Pizza
+370557,Pizzabrötchen mit Kräuterbutter,,Pizzabrötchen,Pizza
+653629,Pizza Napoli,"mit Mozzarella, Sardellen, Kapern und Oliven",Pizza Napoli,Pizza
+29521,Pasta Lachs,mit Lachs und Sahnesauce,Pasta Salmone,Pasta
+349853,Pizza Cipolla,mit Zwiebeln,Pizza Cipolla,Pizza
+462724,Pasta Diavolo,"mit Penne, Tomatensauce, Peperonisalami, Kirschtomaten, angenehm scharfen Jalapenos, süßen roten Zwiebeln & Parmesan",Pasta Diavolo,Pasta
+475546,Pizza Philadelphia,"mit Frischkäse, Blattspinat, süßen roten Zwiebeln & Gouda",Pizza Philadelphia,Pizza
+561221,Rigatoni Gorgonzola,mit Sahnesauce,Rigatoni Gorgonzola,Pasta
+730168,Pizza Salami,mit Salami,Pizza Salami,Pizza
+27746,Pizza Spinat,mit Spinat und Knoblauch,Pizza Spinaci,Pizza
+691263,Pizza Tonno,mit Thunfisch und Zwiebeln,Pizza Tonno,Pizza
+657568,Pizza Valentino,"mit Schinken, Thunfisch, Artischocken, frischen Champignons und Ei",Pizza Valentino,Pizza
+737671,Pizza Margherita,mit Käse und Tomaten,Pizza Margherita,Pizza
+78803,Pizza Milano,"mit Pizzasauce, Champignons, Paprika, Mais, Broccoli und Schinkenstreifen",Pizza Milano,Pizza
+228748,Penne Al Forno,mit Tomaten und Sahnesauce überbacken,Penne al Forno,Pasta
+569999,Pizza Texas,"mit Hackfleisch, Paprika, Bohnen, Mais, Zwiebeln und Barbecuesauce",Pizza Texas,Pizza
+294975,Pizza Roma,"mit Schinken, Salami, Peperoniwurst und Champignons",Pizza Roma,Pizza
+486650,Penne Bolognese,mit Hackfleischsauce und Käse überbacken,Penne Bolognese,Pasta
+690595,Maccheroni Bolognese,mit Fleischsauce,Maccheroni Bolognese,Pasta
+382764,Pizzabrot mit Käse überbacken,Oregano und Knoblauch,Pizzabrötchen,Pizza
+593160,Pizza O Sole Mio,"mit Tomatensauce, Käse, Schinken und Peperoni",Pizza O Sole Mio,Pizza
+651829,Pizza mit Allem,ohne Meeresfrüchte,Pizza mit Allem,Pizza
+392740,Pasta Scampi,mit Aurorasauce,Pasta Scampi,Pasta
+14632,Spaghetti Aglio Olio,"mit Olivenöl, Knoblauch und frischen Tomaten",Spaghetti Aglio e Olio,Pasta
+530491,Pizza Hawaii,"Tomaten, Schinken, Ananas und Käse",Pizza Hawaii,Pizza
+313291,Tortellini Alla Panna,"mit Schinken, frischen Pilzen und Sahnesauce",Tortellini alla Panna,Pasta
+368752,Pizza Tonno,mit Thunfisch und Zwiebeln,Pizza Tonno,Pizza
+63041,Pizza Vier Jahreszeiten,,Pizza Vier Jahreszeiten,Pizza
+113272,Pizza Calzone,"mit extra Käse, Putenschinken, Pilzen und Paprika",Pizza Calzone,Pizza
+394905,Cannelloni,gefüllt mit Rinderhackfleisch und Tomaten-Sahnesauce,Cannelloni,Pasta
+584110,Pizza Hollandaise,"mit Schinken, Broccoli und Sauce Hollandaise",Pizza Hollandaise,Pizza
+240219,Pizza Scampi Speciale,"mit Spinat, Scampi, Knoblauch und Sauce Hollandaise",Pizza Scampi,Pizza
+335038,Pizza Salami,mit Salami,Pizza Salami,Pizza
+514815,Pizza Napoli,"mit Kapern, Sardellen und Oliven",Pizza Napoli,Pizza
+565050,Pizza Quattro Formaggi,mit 4 verschiedenen Käsesorten,Pizza Quattro Formaggi,Pizza
+614846,Pizza Tonno,mit Thunfisch,Pizza Tonno,Pizza
+187045,Mini Pizza mit Salami und Schinken,,Pizza Salami,Pizza
+554399,Pizza Mista,"mit Salami, Schinken, Oliven und Peperoni",Pizza Mista,Pizza
+53071,Mittagstisch - Pizza Verdura,mit frischem Gemüse,Pizza Verdura,Pizza
+521257,Pizza Bella,"mit Formfleisch-Vorderschinken, Salami, Krabben und Thunfisch",Pizza Bella,Pizza
+507808,Pizza Kreta,"mit Hähnchenbrustfilet, Ananas und Currysauce",Pizza Kreta,Pizza
+383915,Pizza Parma e Rucola,"mit Parmaschinken, Rucola und Parmesankäse",Pizza Parma,Pizza
+22478,Calzone Hawaii,"mit gekochtem Schinken, Käse und Ananas",Pizza Calzone,Pizza
+283622,Pizza Calzone Classico,"mit Schinken, Salami, Tomaten, Feta und Oliven",Pizza Calzone,Pizza
+620932,Pizza Mais,,Pizza Mais,Pizza
+257576,Pizza Prosciutto e Funghi,"mit saftigem Vorderschinken, frischen Champignons und Käse",Pizza Prosciutto,Pizza
+181322,Wunschpizza,,Wunschpizza,Pizza
+124788,Grüne Gnocchi Spinaci Pomodoro,mit Tomatensauce,Gnocchi Spinaci,Pasta
+505780,Pizza Hawaii,mit Schinken und Ananas,Pizza Hawaii,Pizza
+119034,Pizza Gyros,"mit Tomaten, Käse, Gyros, Zwiebeln und frischen Tomaten",Pizza Gyros,Pizza
+709602,Pizza Rucola,"mit Tomate, Rucola und Parmesan",Pizza Rucola,Pizza
+285719,Pizza Hawaii,"mit Truthahnschinken, Ananas und Curry",Pizza Hawaii,Pizza
+93201,Rigatoni mit Gorgonzola und Sahnesauce,,Rigatoni Gorgonzola,Pasta
+24185,Pizza Quattro Stagioni,"mit Tomaten, Käse, frischen Pilzen, Paprika, Artischocken und Schinken",Pizza Quattro Stagioni,Pizza
+71241,Pizza Vier Jahreszeiten,"mit Salami, Schinken, Pilzen und Artischocken",Pizza Vier Jahreszeiten,Pizza
+324791,Pizza Calzone,"gefüllte Pizza mit Salami, Schinken und Champignons",Pizza Calzone,Pizza
+383422,Pizza Scampi,"mit Scampis, Kirschtomaten, Spinat, Sauce Hollandaise, Tomatensauce und Käse",Pizza Scampi,Pizza
+188602,Spaghetti Carbonara,"mit Schinken, Sahne, Ei und Parmesan",Spaghetti Carbonara,Pasta
+269496,Pizza Bolognese con Parmigiano,mit Rinderbolognese und Parmesan,Pizza Bolognese,Pizza
+287746,Tagliatelle Della Casa,"mit Champignons, Schinken, Erbsen und Fleischsauce",Tagliatelle Della Casa,Pasta
+312261,Pizza Regina,mit Vorderschinken und frischen Champignons,Pizza Regina,Pizza
+211773,Pizza Salami,mit Salami,Pizza Salami,Pizza
+496368,Spaghetti Bolognese,mit Tomaten in Hackfleischsauce,Spaghetti Bolognese,Pasta
+699769,Pizza Bolognese,mit Bolognesesauce,Pizza Bolognese,Pizza
+388408,Pizza Regina,mit Mozzarella und Basilikum,Pizza Regina,Pizza
+408289,Pizza Rustica,mit Salami und Rucola,Pizza Rustica,Pizza
+201579,Pizza Quattro Stagioni,"mit Salami, Formfleischvorderschinken, Thunfisch und Champignons",Pizza Quattro Stagioni,Pizza
+364980,Pizza Mozzarella,"mit Mozzarella, Schinken, Peperoniwurst und Basilikum",Pizza Mozzarella,Pizza
+698317,Pizza Prosciutto,mit Käse und Schinken,Pizza Prosciutto,Pizza
+481249,Spaghetti Napoli,mit Tomatensugo,Spaghetti Napoli,Pasta
+145874,8 Pizzabrötchen gefüllt mit Salami,,Pizzabrötchen mit Salami,Pizza
+131209,"Tortellini Arrabiata, scharf","mit Kapern, Knoblauch, Oliven und Peperoni",Tortellini Arrabiata,Pasta
+364877,Pizza Mista Spezial,"mit Salami, Champignons, Thunfisch und Schinken",Pizza Mista,Pizza
+350441,Pizza Schinken,mit Schinken,Pizza Prosciutto,Pizza
+434088,Spaghetti Aglio e Olio,"mit Olivenöl, Parmesankäse und Knoblauch",Spaghetti Aglio e Olio,Pasta
+220141,Pizza Capricciosa,"mit Vorderschinken, frischen Champignons, Artischocken, Oliven und Paprika",Pizza Capricciosa,Pizza
+131970,Tortellini Bolognese,mit Hackfleischsauce,Tortellini Bolognese,Pasta
+386997,Tagliatelle grün alla Chef,"mit Erbsen, Schinken und Fleischsauce",Tagliatelle alle Chef,Pasta
+15582,Gnocchi Pomodoro,mit Tomatensauce und Knoblauch,Gnocchi al Pomodoro,Pasta
+409801,Pizza Tonno,,Pizza Tonno,Pizza
+708980,Pizza Fantasia,"mit Thunfisch, Zwiebeln, Fetakäse, Champignons und Knoblauch",Pizza Fantasia,Pizza
+708747,Pizza Mista,"mit Champignons, Thunfisch, Schinken und Salami",Pizza Mista,Pizza
+113332,Pizza Contadina,"mit Kartoffelscheiben, Schafskäse, Paprika, milden Peperoni, Zucchini, Tomaten und Käse",Pizza Contadina,Pizza
+265623,Pizza Calzone,"gefüllt mit Schinken, Paprika, Pilzen, Thunfisch und Zwiebeln",Pizza Calzone,Pizza
+717348,Pizza Amerika,"mit Tomatensauce, frisch geriebenem Käse, Mais, Salami, roten Zwiebeln und Peperoni",Pizza Amerika,Pizza
+133995,Rigatoni alla Chef,"mit Gorgonzola -Sahnesauce, Tomaten und Zwiebeln",Rigatoni alla Chef,Pasta
+459781,Pizza Torino,"mit Plockwurst, Thunfisch und Zwiebeln",Pizza Torino,Pizza
+706877,Pizzabrot,mit Fetakäse,Pizzabrot,Pizza
+720385,Pizza Spinaci,mit Spinat,Pizza Spinaci,Pizza
+371627,Pizza Mais,"mit Tomatensauce, Schinken, Champignons, Tomaten, Mais und Käse",Pizza Mais,Pizza
+654364,Pizza Salami,mit Salami,Pizza Salami,Pizza
+388851,Pizza Salami,,Pizza Salami,Pizza
+89998,Maccheroni Gorgonzola,mit Gorgonzolakäse und Sahnesauce,Maccheroni Gorgonzola,Pasta
+690298,Pizza Lachs,"mit Lachs, Spinat, Oliven, Creme fraiche und schwarzem Pfeffer",Pizza Salmone,Pizza
+4175,Pizza Americana,"mit  Champignons, Mais, Salami und Zwiebeln",Pizza Americana,Pizza
+713850,Pizza,"eine Pizza nach Wahl und alkoholfreies Getränk 0,33l",Pizza,Pizza
+745310,Pizza Hawaii,mit Truthahnfleischstücken und Ananas,Pizza Hawaii,Pizza
+339900,Pizza Napoli,mit Sardellen und Oliven,Pizza Napoli,Pizza
+439672,Pizza Margherita,mit Käse,Pizza Margherita,Pizza
+561782,Pizza Mozzarella,"mit Tomaten, Mozzarella, frischen Tomaten und Basilikum",Pizza Mozzarella,Pizza
+709932,Pizza Thunfisch,mit Thunfisch und Zwiebeln,Pizza Tonno,Pizza
+735597,Pizza Chicken Curry,"mit Tomatensauce, Käse, Hähnchenfleisch, frischen Tomaten,  Ananas und Zwiebeln",Pizza Chicken,Pizza
+446987,Pizza Vegetarisch,"mit Artischocken, Oliven, Ananas, Champignons, Zwiebeln, Peperoni und Paprika",Pizza Vegetaria,Pizza
+380933,Pizza Diavolo,"mit Peperoniwurst, grünen Peperoni, Knoblauch und Oliven, sehr Scharf!",Pizza Diavolo,Pizza
+340121,Pizza Chicken,"mit Hähnchenbrust, Tomaten, Pilzen, Zwiebeln und Currysauce",Pizza Chicken,Pizza
+635905,Pizza Margherita,mit Käse und Tomatensauce,Pizza Margherita,Pizza
+179720,Pizza Calzone,"mit Ei, gekochtem Vorderschinken, Salami, Paprika, Peperoniwurst und Pilzen, scharf",Pizza Calzone,Pizza
+213294,Spaghetti Funghi,mit frischen Champignons in Tomatensauce,Spaghetti Funghi,Pasta
+69396,Pasta Bolognese,mit Hackfleischsauce,Spaghetti Bolognese,Pasta
+322725,Pizza Greek,"mit Tomaten, Weichkäse und Zwiebeln",Pizza Greek,Pizza
+579275,Rigatoni Bolognese,mit Fleischsauce und frischem Parmesankäse,Rigatoni Bolognese,Pasta
+628040,Pizza Broccoli,"mit Broccoli, Knoblauch und frischen Tomaten",Pizza Broccoli,Pizza
+75065,Pizza Mozzarella,"mit frischen Tomaten, Mozzarella und Oliven",Pizza Mozzarella,Pizza
+179405,Pizza Funghi,"mit würziger Tomatensauce, frisch geriebenem Edamer und frischen Champignons",Pizza Funghi,Pizza
+38200,Pizza Marinara,"mit Tomaten, Käse, Thunfisch, Kapern und Sardellen",Pizza Marinara,Pizza
+429432,Pizza Vier Jahreszeiten,"mit Artischocken, Paprika, Spargel, Pilzen, Käse und Tomatensauce",Pizza Vier Jahreszeiten,Pizza
+449651,Tortellini alla panna,mit Schinken und Sahnesauce,Tortellini alla Panna,Pasta
+144478,Pizza Hackfleisch,,Pizza Hackfleisch,Pizza
+69157,Tortellini alla Panna,Sahnesauce und Schinken,Tortellini alla Panna,Pasta
+248440,Pizza Pane bianca,Pizzabrot ohne Tomatensauce mit frischem Rosmarino und Olivenöl,Pizza Pane,Pizza
+447650,Pizza Carbonara,"mit Sahnesauce, Parmesan, Speck, roten Zwiebeln, Tomatensauce und Mozzarella",Pizza Carbonara,Pizza
+37659,Pizza Tonno Cipolla,"mit Thunfisch, Zwiebeln und Peperoni",Pizza Tonno,Pizza
+515279,Pizza Salami Peperoni,,Pizza Salami Peperoni,Pizza
+253873,Pizza Capriciosa,"mit Salami, Hinterschinken, Paprika, Peperoniwurst, Champignons, Artischockenherzen und grünen Peperoni",Pizza Capricciosa,Pizza
+324325,Pizza Spezial,"mit Salami, Schinken und Champignons",Pizza Spezial,Pizza
+270243,Pizza Funghi,mit Champignons,Pizza Funghi,Pizza
+363537,Pizza Rucco,"mit frischen Tomaten, Mozzarella und frischem Rucola",Pizza Rucola,Pizza
+515908,Pizza Bolognese,mit Hackfleisch und Zwiebeln,Pizza Bolognese,Pizza
+536465,Pizza Vegetaria,"mit Spinat, Paprika, Pilzen, Artischocken und Broccoli",Pizza Vegetaria,Pizza
+535272,Pizza Spinaci,mit Spinat und Knoblauch,Pizza Spinaci,Pizza
